@@ -1,48 +1,53 @@
-# Awesome-Autonomous-AI-Developers
+# 🤖 Awesome Autonomous AI Developers 🚀
 
-## Top Autonomous AI Developers Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Autonomous AI Developers Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-AI-Developers?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-AI-Developers?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developers/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Autonomous-AI-Developers" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developers/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top Autonomous AI Developers Ecosystem
 
-*Focused on Autonomous Code Generation, Multi-File Editing & Headless Software Engineering*  
+> ⚡ **A curated directory of production-ready SaaS platforms & open-source AI software engineering agents.**  
+> *Specializing in autonomous full-codebase generation, multi-file editing, SWE-bench problem solving, and headless terminal copilots.*  
+> 📅 **Last updated: October 2026**
 
-**Last updated: October 2026**
+This repository comprehensively tracks the ecosystem of **Autonomous AI Software Engineers and Coding Agents**. These autonomous agents and agentic IDEs empower developers, DevOps engineers, and platform teams to delegate end-to-end software development workflows—including GitHub issue diagnosis, architectural planning, multi-file code refactoring, automated testing, terminal execution, and pull request generation—without file-by-file manual intervention.
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Autonomous AI Developers**. These tools enable developers to delegate complete software engineering tasks—from GitHub issue resolution and full codebase generation to multi-agent collaboration and terminal-native pair programming—without manual file-by-file editing.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & Custom Framework Stacks](#️-architecture--custom-framework-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer & Security Boundary](#️-disclaimer--security-boundary)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include Codeium, GitHub Copilot, Cursor, Tabnine, Amazon Q Developer, Sourcegraph Cody, Windsurf, Continue, Supermaven, and Replit AI (the category leaders).
+The global market size for AI developer tools and autonomous coding agents reached an estimated **$7.5 billion in 2025–2026** and is projected to expand at a compound annual growth rate (CAGR) exceeding **28% through 2032**. 
 
+The sector exhibits **moderate fragmentation with aggressive power-law concentration dynamics**: foundational cloud infrastructure leaders (Microsoft Copilot and AWS Amazon Q) hold broad enterprise distribution advantages, while specialized high-velocity agent pioneers (Cursor, Cognition/Windsurf, and Replit) capture concentrated developer mindshare and valuation premiums, coexisting alongside an exceptionally vibrant, defensive open-source agent ecosystem (OpenHands, Cline, Goose, and Aider) resisting single-vendor lock-in.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, autonomous task execution, and open agent harnesses—ideal for developers, platform teams, and organizations seeking transparent, vendor-independent AI software engineering.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
+## ☁️ SaaS / Hosted Platforms
 
 | Product | Company Size (Valuation / Revenue) | Pricing (Starting Paid Tier) | Free Tier Limits | Description |
 |---|---|---|---|---|
@@ -57,132 +62,141 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Supermaven](https://supermaven.com/)** | $12M Raised (Acquired by Cursor/Anysphere) | $10/mo for Pro tier | Unlimited fast code completions with 300,000 token context window, 7-day data retention | **Ultra-fast code completion** with **1 million token context window**. **The fastest autocomplete** in the category. |
 | **[Continue](https://continue.dev/)** | $5.6M Raised (Acquired by Cursor/Anysphere) | 100% Free / Bring Your Own Model ($0 platform fee; pay LLM provider per token) | Free forever (100% open-source Apache 2.0 with unlimited local model inference via Ollama/LM Studio) | **Open-source IDE extension** with chat, autocomplete, and edit modes. **The most popular open-source Copilot alternative** for VS Code and JetBrains. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+*Sorted in descending order by GitHub Stars ⭐.*
 
+1. **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+   **Open platform for AI software developers as generalist agents** (MIT) • **91,000+ stars** 🌟  
+   OpenHands agents can do anything a human developer can: modify code, execute bash commands, navigate browser interfaces, invoke APIs, and manage complete multi-turn developer lifecycles. Offers three modular interfaces: an extensible **Python SDK**, a headless **CLI**, and a polished **Local Web GUI**. Employs **CodeAct 2.1 architecture** with sandboxed container execution, scoring **53% on SWE-bench Verified**.
 
+2. **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
+   **Multi-agent collaborative framework returning PRDs, System Designs, and Code** (MIT) • **70,800+ stars** 🌟  
+   Assigns distinct specialized roles to LLMs—including Product Managers, Architects, Project Managers, and Engineers. Enforces standard operating procedures (SOPs) based on the philosophy **Code = SOP(Team)**, delivering an entire simulated software development company lifecycle from prompt to deployment.
 
-- **[Aider](https://github.com/aider-ai/aider)**  
+3. **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+   **Autonomous coding agent extension inside VS Code & terminal** (Apache-2.0) • **70,300+ stars** 🌟  
+   Equipped with human-in-the-loop permission checkpoints to edit files, inspect project trees, execute shell commands, read browser consoles, and interface with external tools via Model Context Protocol (MCP). Brings frontier reasoning models directly into local developer environments.
 
-  **AI pair programming in your terminal** (Apache-2.0) . **The most widely used open-source terminal coding agent**—works with Claude 3.7 Sonnet, DeepSeek R1, OpenAI o1, and **almost any LLM including local models** . **Maps your entire codebase** for large project context . **100+ languages** supported . **Git integration**—automatically commits changes with sensible messages, lets you diff, manage, and undo AI changes with familiar git tools . **Linting and testing**—automatically lints and tests every time Aider makes changes, and can fix problems detected by linters and test suites . **Images and web pages** as visual context . **Voice-to-code**—speak with Aider about your code . **Use in your IDE**—works from within your favorite editor . **The reference implementation for terminal-based AI pair programming** .
+4. **[Goose](https://github.com/block/goose)** [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=social&color=white)](https://github.com/block/goose/stargazers)  
+   **Open-source on-machine autonomous AI agent from Block** (Apache-2.0) • **55,300+ stars** 🌟  
+   An extensible desktop and terminal agent built for local and cloud developers. Capable of installing toolkits, writing and debugging complex applications, automating scripting tasks, and extending capabilities through native MCP tool integration.
 
+5. **[GPT-Engineer](https://github.com/antonosika/gpt-engineer)** [![GitHub stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social&color=white)](https://github.com/antonosika/gpt-engineer/stargazers)  
+   **Specify what you want to build, clarify ambiguities, and generate full codebases** (MIT) • **55,000+ stars** 🌟  
+   The pioneer of natural language full-codebase generation. Accepts human language specification prompts, clarifies functional requirements, and generates complete multi-file repositories. *(Note: Reference release; commercial counterpart evolved into Lovable).*
 
+6. **[Aider](https://github.com/aider-ai/aider)** [![GitHub stars](https://img.shields.io/github/stars/aider-ai/aider?style=social&color=white)](https://github.com/aider-ai/aider/stargazers)  
+   **AI pair programming in your terminal** (Apache-2.0) • **49,500+ stars** 🌟  
+   The reference standard for terminal-based interactive and headless AI coding. Automatically maps complete project repositories into token-efficient context graphs, performs multi-file edits, runs automated linter & test suites, and crafts clean, structured Git commit messages upon task verification. Compatible with Claude 3.7 Sonnet, DeepSeek R1, OpenAI o1, and local LLMs.
 
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)**  
+7. **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+   **Open-source modular AI code assistant & Copilot alternative** (Apache-2.0) • **36,200+ stars** 🌟  
+   Extensible IDE assistant for VS Code and JetBrains enabling autocomplete, inline code refactoring, context-aware repository chat, and custom provider backends (Ollama, vLLM, LM Studio, Anthropic, OpenAI).
 
-  **Open platform for AI software developers as generalist agents** (MIT) . **41,700+ GitHub stars, 4,600+ forks** . **OpenHands agents can do anything a human developer can: modify code, run commands, browse the web, call APIs, and even copy code snippets from StackOverflow** . **Three interfaces**: **SDK** (composable Python library for defining agents in code and scaling to 1000s in cloud), **CLI** (terminal interface familiar to Claude Code or Codex users), and **Local GUI** (REST API + React app with Devin/Jules-like experience) . **CodeAct 2.1 architecture**—multi-turn interaction where agent processes observations, plans with chain-of-thought, and executes Python code, bash commands, browser control, and file editing actions . **Sandboxed execution environment** with built-in security analyzer (collaboration with InvariantLab) . **53% on SWE-bench verified** . **OpenHands Cloud** adds Slack/Jira/Linear integrations, multi-user support, RBAC, and collaboration features . **The most comprehensive open-source autonomous developer platform** .
+8. **[ChatDev](https://github.com/OpenBMB/ChatDev)** [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+   **Virtual software company powered by communicative multi-agent systems** (Apache-2.0) • **34,500+ stars** 🌟  
+   Multi-agent conversational framework orchestrating simulated employees (designers, programmers, testers, reviewers) in structured dialogue to collaboratively write, test, and document complete multi-file software applications.
 
+9. **[SWE-agent](https://github.com/SWE-agent/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent)](https://github.com/SWE-agent/SWE-agent/stargazers)  
+   **Autonomous agent for GitHub issue resolution from Princeton & Stanford** (MIT) • **20,500+ stars** 🌟  
+   Turns language models into autonomous software engineers that resolve GitHub issues automatically. Clones repositories, audits issues, navigates directories, modifies files, validates unit tests, and formats clean pull request patches.
 
+10. **[Devika](https://github.com/stitionai/devika)** [![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)  
+    **Agentic AI Software Engineer & Devin Alternative** (MIT) • **19,500+ stars** 🌟  
+    Interprets natural language engineering prompts, breaks them down into hierarchical subtasks, conducts automated web research, browses live web applications, and writes code across languages using local or proprietary models.
 
-- **[SWE-agent](https://github.com/SWE-agent/SWE-agent)**  
+11. **[Plandex](https://github.com/plandex-ai/plandex)** [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
+    **Terminal-based AI coding engine for complex, multi-stage development** (AGPL-3.0) • **15,700+ stars** 🌟  
+    Engineered for large, multi-file code modifications with branch-like sandboxed environments, Git diff previews, architectural planning phases, and granular rollback controls.
 
-  **Headless agentic IDE for autonomous GitHub issue resolution** (MIT) . **The academic reference implementation** from Princeton and Stanford—resolves issues by cloning repo, understanding the problem, writing and testing a solution, and creating a patch file . **Multi-agent architecture** with **Planner Agent** (comprehensive project plans with human approval), **Software Engineer Agent** (orchestrator for task delegation), **Code Analyzer Agent** (universal language detection), and **Editor Agent** (file navigation, editing, patch creation) . **23 advanced tools** including file operations, shell commands, git integration, code analysis, and security scanning . **Warp interface** with AI-powered command suggestions and visual code diffs . **The foundation for many commercial autonomous developers** .
+12. **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
+    **AI junior developer that turns GitHub issues into ready-to-merge PRs** (Apache-2.0) • **7,700+ stars** 🌟  
+    Monitors GitHub issue queues, understands requirements, writes code and test suites, responds to review comments, and opens clean pull requests autonomously.
 
+13. **[AutoDev](https://github.com/unit-mesh/auto-dev)** [![GitHub stars](https://img.shields.io/github/stars/unit-mesh/auto-dev?style=social&color=white)](https://github.com/unit-mesh/auto-dev/stargazers)  
+    **Autonomous AI coding engine with multilingual enterprise support** (MIT) • **4,500+ stars** 🌟  
+    Supports Java, Kotlin, TypeScript, Rust, Python, and Go, interfacing directly with test execution runtimes and language server protocol (LSP) analyzers.
 
+14. **[Devon](https://github.com/entropy-research/devon)** [![GitHub stars](https://img.shields.io/github/stars/entropy-research/devon?style=social&color=white)](https://github.com/entropy-research/devon/stargazers)  
+    **Autonomous software engineer agent with multi-file reasoning** (MIT) • **3,400+ stars** 🌟  
+    Equipped with rigorous code navigation and editing toolkits for resolving complex engineering problems without breaking existing dependencies.
 
-- **[Devika](https://github.com/stitionai/devika)**  
+15. **[GPTScript](https://github.com/gptscript-ai/gptscript)** [![GitHub stars](https://img.shields.io/github/stars/gptscript-ai/gptscript?style=social&color=white)](https://github.com/gptscript-ai/gptscript/stargazers)  
+    **Natural language scripting framework for building autonomous agents** (Apache-2.0) • **3,200+ stars** 🌟  
+    A specialized prompt scripting runtime created by Acorn Labs that allows language models to cleanly call tools, invoke binaries, and automate CLI workflows.
 
-  **Agentic AI Software Engineer** (MIT) . **19,500+ GitHub stars** . **Aims to be a competitive open-source alternative to Devin** —understands high-level human instructions, breaks them down into steps, researches relevant information, and writes code . **Supports Claude 3, GPT-4, GPT-3.5, and Local LLMs via Ollama** . **Code Writing Module** generates code based on plan and research findings across multiple languages . **Browser Interaction Module** enables navigating websites, extracting information, and interacting with web elements . **Keyword extraction** for focused research and information gathering . **The most feature-complete open-source Devin alternative** .
+16. **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** [![GitHub stars](https://img.shields.io/github/stars/nus-apr/auto-code-rover?style=social&color=white)](https://github.com/nus-apr/auto-code-rover/stargazers)  
+    **Automated program repair & structural code search agent** (MIT) • **3,100+ stars** 🌟  
+    Combines abstract syntax tree (AST) code navigation with statistical fault localization algorithms to detect and autonomously repair software defects.
 
-
-
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
-
-  **Open-source project replicating Devin** (MIT) . **Aims to replicate, enhance, and innovate upon Devin through open-source community** . **Leverages tools such as shell, code editor, and web browser** . **MonologueAgent** default with limited capabilities but stable; **SWE Agent** implementation in development . **Alpha project**—changing quickly, may be unstable, but demonstrates end-to-end system . **Runs bash commands within Docker sandbox** —workspace directory attached to sandbox . **The original community response to Devin's release** .
-
-
-
-- **[GPT-Engineer](https://github.com/antonosika/gpt-engineer)**  
-
-  **Specify what you want it to build, the AI asks for clarification, and then builds it** (MIT) . **48,700+ GitHub stars** . **The most popular full-codebase generation tool** —a project is a folder holding a `prompt` file describing the software in prose; running `gpte <project_dir>` writes the code . **`-i` flag switches to improve mode** —edits existing codebase instead of starting fresh . **Custom preprompts** override built-in instructions . **Bench command** scores alternative agent implementations against APPS and MBPP datasets . **Note**: Repository archived April 2026; version 0.3.1 (June 2024) is final release. Commercial successor became Lovable . **The foundational open-source codebase generator** .
-
-
-
-- **[MetaGPT](https://github.com/geekan/MetaGPT)**  
-
-  **Multi-agent framework returning Design, Tasks, or Repo** (MIT) . **Assigns different roles to GPTs** —product managers, architects, project managers, and engineers—forming a collaborative software entity . **Code = SOP(Team) is the core philosophy** . **Provides the entire process of a software company** with carefully orchestrated SOPs . **The most structured approach to multi-agent software development** .
-
-
-
-- **[python-agent-harness](https://github.com/your-repo/python-agent-harness)**  
-
-  **Terminal coding agent that reads your codebase, plans changes, edits files, runs commands, and verifies its work** (open-source) . **FSM-driven execution** —explicit WAIT/TOOL/TRET/SUPERVISE/DONE/ERRS/ABRT states with completion supervision that nudges the model when it stops early . **Plan/Build modes** —plan mode is read-only except for session plan file . **Persistent sessions** automatically saved after every response with LLM-generated titles . **MCP support** with stdio, streamable-http, and SSE transports . **Inspired by opencode** —most of its prompts and core behaviors ported . **The most dependency-light implementation** for customization .
-
-
-
-- **[ECLI](https://github.com/your-repo/ecli)**  
-
-  **Next-Generation Terminal IDE** (open-source) . **Modern, AI-powered, extensible code editor for the terminal** . **AI-Powered Assistant** —integrated AI panel for code generation, documentation, and refactoring . **Modern File Manager** —seamlessly navigate and manage projects . **Git Integration** —stage, commit, push/pull directly in terminal . **Syntax Highlighting** —powered by Tree-sitter, supports 70+ languages . **LSP Integration** —full Language Server Protocol support with autocomplete, diagnostics, go-to-definition . **Built-in Linters** —Ruff for Python + support for external linters across 70+ languages . **Pluggable AI provider system** (OpenAI, Anthropic, HuggingFace, Ollama) . **The most IDE-like open-source terminal experience** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[SWE-agent TypeScript Port](https://github.com/elizaos/swe-agent-ts)** — TypeScript port of SWE-agent (MIT) . **Full SWE-bench support**, multi-model support (OpenAI, Anthropic, open-source), parallel execution, interactive shell mode . **Complete parity with Python SWE-agent functionality** .
-
-- **[AutoCodeRover](https://github.com/nus-apr/auto-code-rover)** — Autonomous program improvement (open-source) . **Program Structure Aware code search** —searches abstract syntax tree for methods/classes, not plain string matching . **Statistical fault localization** when test suite available . **Resolves ~16% of SWE-bench issues** .
-
-- **[Devon](https://github.com/entropy-research/devon)** — Open-source SWE Agent (open-source) . **Reliable multi-file editing and git tool use** . **Built with Python** .
-
-- **[AutoDev](https://github.com/unit-mesh/auto-dev)** — Open-source Devin alternative with multilingual support (open-source) . **Java, Kotlin, JavaScript/TypeScript, Rust, Python, Go, C/C++ support** .
-
-- **[Codel](https://github.com/semanser/codel)** — Fully autonomous AI Agent (open-source) . **Terminal, browser, and editor** in sandboxed Docker environment . **PostgreSQL history** .
-
-- **[Anterion](https://github.com/your-repo/anterion)** — Open-source software engineer (open-source) . **Extends SWE-agent capabilities** to plan and execute open-ended engineering tasks . **Frontend inspired by OpenDevin** .
-
-- Community **n8n** workflows for autonomous agent task orchestration and GitHub issue routing.
-
-
-
-**Frameworks for building custom systems**: Combine **OpenHands** for comprehensive agent platform with **Aider** for terminal pair programming, **SWE-agent** for issue resolution, **Devika** for Devin-like autonomous workflows, and **GPT-Engineer** for full-codebase generation—creating a fully self-hosted, enterprise-grade autonomous developer stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Autonomous AI developers handling codebases and repositories must follow security best practices and comply with data protection regulations. **Agent actions in sandboxed environments can still modify attached workspace directories** —OpenDevin warns that files in the attached directory may be modified or deleted .
-
-- **Open-source autonomous developers are mature and production-ready.** OpenHands (41.7K+ stars) matches human developers' action space . Aider (terminal-native) maps entire codebases with git integration . SWE-agent (Princeton/Stanford) resolves GitHub issues autonomously . **These are genuine alternatives to Devin and Cursor.**
-
-- **The sandbox is the safety boundary, not the agent's judgment.** OpenHands runs bash commands within Docker sandbox with a built-in security analyzer . **Never grant autonomous agents unrestricted access to production systems.**
-
-- **Multi-agent architectures provide auditability.** SWE-agent's Planner, Engineer, Analyzer, and Editor agents create a traceable decision chain . MetaGPT assigns software company roles with SOPs . **This transparency is the core value proposition over single-model black boxes.**
-
-- **GPT-Engineer is archived.** The repository was archived April 2026; version 0.3.1 from June 2024 is the final release . Commercial successor became Lovable. **Use for reference, not new production deployments.**
-
-- Self-hosted open-source solutions require proper security hardening, API key management, and ongoing maintenance. **Autonomous agents consume significant LLM tokens** —set spending limits and monitor usage .
-
-
+17. **[Codel](https://github.com/semanser/codel)** [![GitHub stars](https://img.shields.io/github/stars/semanser/codel?style=social&color=white)](https://github.com/semanser/codel/stargazers)  
+    **Fully autonomous AI developer operating within Docker sandboxes** (Apache-2.0) • **2,400+ stars** 🌟  
+    Binds terminal execution, file system modifications, and browser interactions inside secure Docker containers with full PostgreSQL session histories.
 
 ---
 
+## 🛠️ Architecture & Custom Framework Stacks
 
+For organizations and engineering teams assembling a fully self-hosted, private autonomous software engineering platform:
 
-**Made for developers, platform teams, and organizations building transparent autonomous developer solutions.**  
+```mermaid
+flowchart TD
+    A["User Task / GitHub Issue"] --> B["Planner / Multi-Agent Coordinator (MetaGPT / OpenHands / ChatDev)"]
+    B --> C["Workspace Sandbox (Docker / MicroVM / Firecracker)"]
+    C --> D["Context Engine (Aider Repo-Map / AST Analysis / LSP)"]
+    D --> E["LLM Execution Core (Claude 3.7 / DeepSeek R1 / OpenAI o1 / Ollama)"]
+    E --> F["Automated Tool Loop: Bash, Edit, Lint, Test Suites"]
+    F --> G["Git Diff Verification & Pull Request Dispatch"]
+```
 
-Let's make Autonomous AI Developers more open, data-driven, and sandboxed.
+- **Issue Resolution Engine**: Combine **OpenHands** or **SWE-agent** for automated ticket handling.
+- **Terminal Pair Programming**: Deploy **Aider** or **Cline** for daily developer terminal workflows.
+- **Team-Scale Multi-Agent Simulation**: Leverage **MetaGPT** or **ChatDev** to generate architecture designs, PRDs, and component scaffolds.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions to keep this ecosystem accurate and comprehensive are welcome! 🚀
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-agent`).
+3. 📝 Add your entry into `README.md` adhering to the table or open-source list format (include official links, license, and factual summaries).
+4. ⭐ Ensure star counts or pricing specifics are accurate.
+5. 🚀 Submit a descriptive **Pull Request**.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository saves you research hours or helps you discover game-changing autonomous developer tools, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork & Share** with your developer community, platform engineering team, and AI enthusiasts.
+- ☕ **Buy a Coffee & Sponsor:** Show your appreciation and fuel ongoing updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for being part of the open autonomous AI developer revolution! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-AI-Developers&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-AI-Developers&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer & Security Boundary
+
+- 🔍 **Community Curated**: This repository serves as an independent index and technical reference. Inclusion does not imply official commercial affiliation or endorsement.
+- 🛡️ **Sandbox Security**: Autonomous agents execute terminal commands, install packages, and edit directory trees. **Always execute autonomous coding agents inside sandboxed environments (Docker, isolated containers, or microVMs)**. Never grant agents unfettered write access to production infrastructure or secrets.
+- 💰 **Token Consumption**: Multi-agent loops and full-context repo-maps consume significant token volumes. Set automated budget alerts and spending limits when pairing with frontier cloud APIs.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for developers, platform teams, and AI architects worldwide.</b><br/>
+  <sub>Let's build autonomous, open-source, and verifiable software engineering together.</sub>
+</p>
