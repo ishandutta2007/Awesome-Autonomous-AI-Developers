@@ -44,63 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[GitHub Copilot](https://github.com/features/copilot)**  
-
-  **The most widely adopted AI coding assistant** with code completion, chat, and **Copilot Workspace** for multi-file task planning. **Coding agent dispatches from issue assignment**—posts 👀 reaction, exposes PR checklist with live session logs .
-
-
-
-- **[Cursor](https://cursor.com/)**  
-
-  **AI-first code editor** built on VS Code with **Composer** for multi-file editing and **Agent mode** for autonomous task execution. **The most popular AI-native IDE** for professional developers.
-
-
-
-- **[Codeium](https://codeium.com/)**  
-
-  **Free AI coding assistant** with autocomplete, chat, and search across 70+ languages. **The most generous free tier** in the category.
-
-
-
-- **[Windsurf](https://windsurf.com/)**  
-
-  **Agentic IDE** with **Cascade** for multi-step task execution. Acquired by Cognition (makers of Devin) in 2025.
-
-
-
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**  
-
-  **AWS's AI coding companion** with code generation, security scanning, and AWS service integration. **The most integrated with AWS ecosystem** .
-
-
-
-- **[Sourcegraph Cody](https://sourcegraph.com/cody)**  
-
-  **AI coding assistant with codebase-wide context**—answers questions about your entire repository, not just open files .
-
-
-
-- **[Tabnine](https://www.tabnine.com/)**  
-
-  **AI code assistant with enterprise security**—runs locally or in your VPC, never trains on your code. **The most privacy-focused commercial option** .
-
-
-
-- **[Continue](https://continue.dev/)**  
-
-  **Open-source IDE extension** with chat, autocomplete, and edit modes. **The most popular open-source Copilot alternative** for VS Code and JetBrains .
-
-
-
-- **[Supermaven](https://supermaven.com/)**  
-
-  **Ultra-fast code completion** with **1 million token context window**. **The fastest autocomplete** in the category .
-
-
-
-- **[Replit AI](https://replit.com/)**  
-
-  **Browser-based AI coding environment** with **Ghostwriter** for code generation and **Agent** for autonomous task execution. **The most accessible zero-setup option** .
+| Product | Company Size (Valuation / Revenue) | Pricing (Starting Paid Tier) | Free Tier Limits | Description |
+|---|---|---|---|---|
+| **[GitHub Copilot](https://github.com/features/copilot)** | ~$4.0T Market Cap (Microsoft) / $331.8B Rev | $10/user/mo ($100/yr) for Copilot Individual | 2,000 code completions/month, 50 chat messages/month with light models | **The most widely adopted AI coding assistant** with code completion, chat, and **Copilot Workspace** for multi-file task planning. **Coding agent dispatches from issue assignment**—posts 👀 reaction, exposes PR checklist with live session logs. |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | ~$2.74T Market Cap (Amazon) / $776B Rev | $19/user/mo for Pro tier | 50 agentic requests/month, 1,000 lines of code transformation/month, 50 security scans/month | **AWS's AI coding companion** with code generation, security scanning, and AWS service integration. **The most integrated with AWS ecosystem**. |
+| **[Cursor](https://cursor.com/)** | $60B Valuation (Anysphere) / ~$2B+ ARR | $20/mo for Pro tier | 2,000 completions/month, 50 slow premium requests/month, plus 14-day Pro trial | **AI-first code editor** built on VS Code with **Composer** for multi-file editing and **Agent mode** for autonomous task execution. **The most popular AI-native IDE** for professional developers. |
+| **[Windsurf](https://windsurf.com/)** | $48B Valuation (Cognition) / ~$900M ARR | $15/user/mo for Pro tier | Unlimited tab autocomplete and inline edits; capped at 25 Cascade agent flow actions/month | **Agentic IDE** with **Cascade** for multi-step task execution. Acquired by Cognition (makers of Devin) in 2025. |
+| **[Replit AI](https://replit.com/)** | $9B Valuation (Replit) / ~$300M ARR | $20/mo ($18/mo billed annually) for Core plan | Limited daily AI agent trial credits, 1 published app, 1 vCPU, 2 GiB RAM, 1,200 dev hrs/month | **Browser-based AI coding environment** with **Ghostwriter** for code generation and **Agent** for autonomous task execution. **The most accessible zero-setup option**. |
+| **[Sourcegraph Cody](https://sourcegraph.com/cody)** | $2.6B Valuation (Sourcegraph) / ~$50M ARR | $9/user/mo for Pro tier (Enterprise starting at $19/user/mo) | 200 chat and command queries/month, unlimited autocomplete completions | **AI coding assistant with codebase-wide context**—answers questions about your entire repository, not just open files. |
+| **[Codeium](https://codeium.com/)** | $1.25B Valuation (Exafunction) / ~$80M ARR | $15/user/mo for Pro tier | Unlimited fast autocomplete completions, unlimited chat queries, across 70+ languages | **Free AI coding assistant** with autocomplete, chat, and search across 70+ languages. **The most generous free tier** in the category. |
+| **[Tabnine](https://www.tabnine.com/)** | ~$60M Total Funding / ~$30M ARR | $39/user/mo (billed annually) for Code Assistant | 14-day free trial of Pro tier with unlimited completions and chat; basic short-form completions on dev preview | **AI code assistant with enterprise security**—runs locally or in your VPC, never trains on your code. **The most privacy-focused commercial option**. |
+| **[Supermaven](https://supermaven.com/)** | $12M Raised (Acquired by Cursor/Anysphere) | $10/mo for Pro tier | Unlimited fast code completions with 300,000 token context window, 7-day data retention | **Ultra-fast code completion** with **1 million token context window**. **The fastest autocomplete** in the category. |
+| **[Continue](https://continue.dev/)** | $5.6M Raised (Acquired by Cursor/Anysphere) | 100% Free / Bring Your Own Model ($0 platform fee; pay LLM provider per token) | Free forever (100% open-source Apache 2.0 with unlimited local model inference via Ollama/LM Studio) | **Open-source IDE extension** with chat, autocomplete, and edit modes. **The most popular open-source Copilot alternative** for VS Code and JetBrains. |
 
 
 
